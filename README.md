@@ -59,6 +59,7 @@ The portal is a standalone web application with Augmented Reality and Artificial
 - Offline-first design for low-bandwidth areas.  
 
 ## 3. System Features  
+<img width="1920" height="1080" alt="Corporate Agile Project Workflow Infographic Presentation (5)" src="https://github.com/user-attachments/assets/390a6e19-6314-465f-a11e-7d9a3ae634be" />
 
 ### 3.1 Sylheti Nagri Keyboard  
 - Input Sylheti Nagri characters.  
@@ -78,6 +79,7 @@ The portal is a standalone web application with Augmented Reality and Artificial
 ### 3.4 Gamified Learning Modules  
 - Augmented Reality level up-games for engagement.  
 - Progress tracking and rewards.  
+<img width="1920" height="1080" alt="Corporate Agile Project Workflow Infographic Presentation (4)" src="https://github.com/user-attachments/assets/73f1e8a9-fc88-4c6a-a4ea-68080e04c3fa" />
 
 ### 3.5 Artificial Intelligence Interactive Guide  
 - Conversational assistant for alphabets, history, and pronunciation.  
@@ -101,6 +103,7 @@ The portal is a standalone web application with Augmented Reality and Artificial
 - Design & Media: Figma, After Effects  
 - Audio: Authentic Sylheti Nagri pronunciation, flute compositions inspired by 1952.  
 - Tools & Technologies: React.js, JavaScript (ES6+), Tailwind CSS, Node.js, Express.js, MongoDB, Firebase Authentication, JWT, Git, GitHub, REST API  
+<img width="1920" height="1080" alt="Corporate Agile Project Workflow Infographic Presentation (3)" src="https://github.com/user-attachments/assets/ad9c38f2-b2e8-4976-9b80-95712d91e6f7" />
 
 ## 6. Expected Impact  
 - Revive and promote Sylheti Nagri script.  
@@ -109,6 +112,7 @@ The portal is a standalone web application with Augmented Reality and Artificial
 - Showcase Bangladesh's innovation in culturally enriched digital technology.  
 
 ## 7. Sustainable Development Goals :
+<img width="1920" height="1080" alt="Corporate Agile Project Workflow Infographic Presentation (2)" src="https://github.com/user-attachments/assets/556f41e2-82dc-4bbc-9bde-90f935f72c89" />
 
 ## 8. Team member Information  
 
@@ -116,6 +120,9 @@ Pritom Paul: Lead Researcher, XR Developer & System Architect (Team Lead)
 Shivani Gokul Badgujar: XR Conceptualizer, 3D Designer & AI Developer  
 Ratul Saha Roy: Software Developer (Full-Stack) & Video Editor  
 Banidipa Chakraborty: Graphic Designer, Content Writer & Vocal Artist  
+
+<img width="1920" height="1080" alt="Corporate Agile Project Workflow Infographic Presentation (1)" src="https://github.com/user-attachments/assets/00533b9c-b264-4e3b-ab92-f254b18155dd" />
+
 
 ## 9. Conclusion  
 The Sylheti Nagri Immersive Learning Portal is a fusion of heritage and innovation. By combining AR, Artificial Intelligence, and gamified learning, it Artificial Intelligence ms to preserve the Sylheti Nagri language while engaging learners in a modern, interactive way. This project represents Bangladesh's potential to lead in culturally enriched digital innovation.
