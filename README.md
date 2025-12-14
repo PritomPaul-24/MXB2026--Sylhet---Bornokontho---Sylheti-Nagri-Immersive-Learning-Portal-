@@ -104,7 +104,9 @@ The portal is a standalone web application with Augmented Reality and Artificial
 - Design & Media: Figma, After Effects  
 - Audio: Authentic Sylheti Nagri pronunciation, flute compositions inspired by 1952.  
 - Tools & Technologies: React.js, JavaScript (ES6+), Tailwind CSS, Node.js, Express.js, MongoDB, Firebase Authentication, JWT, Git, GitHub, REST API  
-<img width="1920" height="1080" alt="Corporate Agile Project Workflow Infographic Presentation (3)" src="https://github.com/user-attachments/assets/ad9c38f2-b2e8-4976-9b80-95712d91e6f7" />
+
+<img width="1920" height="1080" alt="Corporate Agile Project Workflow Infographic Presentation (7)" src="https://github.com/user-attachments/assets/82cc72f1-0bf2-4ef7-861f-acd12b15b443" />
+
 
 ## 6. Workflow Gears Motion
 
