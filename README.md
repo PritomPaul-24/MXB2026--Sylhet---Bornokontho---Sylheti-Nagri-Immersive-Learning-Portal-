@@ -259,4 +259,4 @@ The **Sylheti Nagri Immersive Learning Portal** represents a powerful convergenc
 
 The **Sylheti Nagri Immersive Learning Portal** is an innovative Ed-Tech solution for the **MillionX Bangladesh – AI Innovation Hackathon 2025**, targeting **Adaptive Tutors, Learning Analytics Dashboard, and Multimodal Learning Assistant** challenges. This platform fuses **Augmented Reality**, **AI-powered transliteration**, **gamified learning modules**, and **cultural heritage** to preserve and modernize the Sylheti Nagri script. Key features include a digital keyboard, interactive 3D AR letters with pronunciation, Bangla-to-Nagri conversion, leveled AR games, an AI conversational chatbot, and historical content inspired by the **1952 Language Movement**. Built with **Unity AR Foundation, React.js, Node.js, and OpenAI models**, the system ensures **offline accessibility, scalability, and cultural sensitivity**, particularly for learners and educators in low-bandwidth regions. 
 
-[SRS Document](https://drive.google.com/file/d/11nRu16ljykNxhSTzI2zY1AT7DNLEJnr/view?usp=sharing)
+[SRS Document] https://drive.google.com/file/d/11nRu16ljykNxhSTzIY2zY1AT7DNLEJnr/view?usp=sharing
