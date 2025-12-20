@@ -12,10 +12,7 @@ The platform is being developed for the **MillionX Bangladesh – AI Innovation 
 **Hackathon Selection**
 - **Domain:** Ed-Tech  
 - **Challenge:**  
-  - Adaptive Tutors  
-  - Learning Analytics Dashboard  
   - Multimodal Learning Assistant (Text, Voice, Visuals)
-
 
 <img width="883" height="497" alt="image" src="https://github.com/user-attachments/assets/f4adc07d-6fc0-4137-af9c-6edd014b265b" />
 
@@ -192,15 +189,21 @@ An immersive, AI-assisted, AR-powered Ed-Tech platform that modernizes language 
 ### 12.3 AI Layer
 - Python-based LLM models  
 - Bangla–Sylheti Nagri transliteration  
-- Conversational AI chatbot  
+- Conversational AI chatbot
+- Hugging Face  
 
 ### 12.4 Authentication & Deployment
 - Firebase Authentication  
 - JWT  
-- Deployment on Vercel / Cloud infrastructure  
+- Deployment on Vercel / Cloud infrastructure
+
+<img width="1920" height="1080" alt="Corporate Agile Project Workflow Infographic Presentation (10)" src="https://github.com/user-attachments/assets/bd27f548-05db-45bc-80f4-1dbcc2f26c21" />
 
 
-## 13. Functional Requirements
+## 13. Dataset Description (Nagri Sound Dataset)
+The nagri-sound-dataset, hosted on Hugging Face, contains letter-level reference pronunciation audio samples for the Sylheti Nagri script. It supports AI-driven pronunciation feedback, AR-based letter triggering, and multimodal learning (text, voice, visuals) within the Sylheti Nagri Immersive Learning Portal. The dataset is stored in Parquet format with a train split and includes fields such as sample_id, letter_id, audio_file, spoken_language, target_language, duration_ms, noise_level, confidence_score, unity_action_id, and gesture_expected. It enables real-time feedback, adaptive learning analytics, and immersive XR interactions, making it ideal for cultural heritage and Ed-Tech XR projects in Sylhet. 
+
+## 14. Functional Requirements
 
 - Real-time AR rendering and audio playback  
 - Script conversion accuracy  
@@ -209,7 +212,7 @@ An immersive, AI-assisted, AR-powered Ed-Tech platform that modernizes language 
 
 
 
-## 14. Non-Functional Requirements
+## 15. Non-Functional Requirements
 
 - **Performance:** Smooth AR interaction  
 - **Scalability:** Thousands of concurrent users  
@@ -220,22 +223,22 @@ An immersive, AI-assisted, AR-powered Ed-Tech platform that modernizes language 
 
 
 
-## 15. Impact and Scalability
+## 16. Impact and Scalability
 
-### 15.1 Expected Impact
+### 16.1 Expected Impact
 - Revival of Sylheti Nagri script  
 - Increased youth engagement  
 - Inclusive access to language education  
 - Promotion of cultural identity through technology  
 
-### 15.2 Scalability
+### 16.2 Scalability
 - Expandable to other endangered languages  
 - Integration with schools and Ed-Tech platforms  
 - AI analytics for adaptive learning paths  
 
 
 
-## 16. Sustainable Development Goals (SDGs)
+## 17. Sustainable Development Goals (SDGs)
 
 - **SDG 4:** Quality Education  
 - **SDG 9:** Industry, Innovation, and Infrastructure  
@@ -244,12 +247,13 @@ An immersive, AI-assisted, AR-powered Ed-Tech platform that modernizes language 
 
 
 
-## 17. Team Overview
+## 18. Team Overview
 
-- **Pritom Paul** – Lead Researcher, XR Developer & System Architect (Team Lead), Metropolitan University, Bangladesh  
-- **Shivani Gokul Badgujar** – XR Conceptualizer, 3D Designer & AI Developer, IIT Hyderabad  
-- **Ratul Saha Roy** – Full-Stack Software Developer & Video Editor, Metropolitan University, Bangladesh  
-- **Banidipa Chakraborty** – Graphic Designer, Content Writer & Vocal Artist, Metropolitan University, Bangladesh  
+- **Pritom Paul** – Lead Researcher, XR Developer & System Architect (Team Lead); Metropolitan University, Bangladesh  
+- **Shivani Gokul Badgujar** – XR Conceptualizer, 3D Designer & AI Developer; MIT Institute Of Design, India
+- **Sahil Uddin Ishmam** - Software Developer (Django, React) & Competitive Programmer; Metropolitan University, Bangladesh  
+- **Ratul Saha Roy** – Full-Stack Software Developer & Video Editor; Metropolitan University, Bangladesh 
+- **Banidipa Chakraborty** – Graphic Designer, Content Writer & Vocal Artist; Metropolitan University, Bangladesh
 
 
 
@@ -260,3 +264,5 @@ The **Sylheti Nagri Immersive Learning Portal** represents a powerful convergenc
 The **Sylheti Nagri Immersive Learning Portal** is an innovative Ed-Tech solution for the **MillionX Bangladesh – AI Innovation Hackathon 2025**, targeting **Adaptive Tutors, Learning Analytics Dashboard, and Multimodal Learning Assistant** challenges. This platform fuses **Augmented Reality**, **AI-powered transliteration**, **gamified learning modules**, and **cultural heritage** to preserve and modernize the Sylheti Nagri script. Key features include a digital keyboard, interactive 3D AR letters with pronunciation, Bangla-to-Nagri conversion, leveled AR games, an AI conversational chatbot, and historical content inspired by the **1952 Language Movement**. Built with **Unity AR Foundation, React.js, Node.js, and OpenAI models**, the system ensures **offline accessibility, scalability, and cultural sensitivity**, particularly for learners and educators in low-bandwidth regions. 
 
 [SRS Document] https://drive.google.com/file/d/11nRu16ljykNxhSTzIY2zY1AT7DNLEJnr/view?usp=sharing
+
+[Datasets] https://huggingface.co/datasets/shivdi1999/nagri-sound-dataset
