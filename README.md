@@ -14,7 +14,7 @@ The platform is being developed for the **MillionX Bangladesh – AI Innovation 
 - **Challenge:**  
   - Multimodal Learning Assistant (Text, Voice, Visuals)
 
-<img width="883" height="497" alt="image" src="https://github.com/user-attachments/assets/f4adc07d-6fc0-4137-af9c-6edd014b265b" />
+<img width="887" height="499" alt="image" src="https://github.com/user-attachments/assets/b441e65b-1a46-449e-937e-bad70ab5fb84" />
 
 ## 2. Problem Statement
 
@@ -197,8 +197,7 @@ An immersive, AI-assisted, AR-powered Ed-Tech platform that modernizes language 
 - JWT  
 - Deployment on Vercel / Cloud infrastructure
 
-<img width="1920" height="1080" alt="Corporate Agile Project Workflow Infographic Presentation (10)" src="https://github.com/user-attachments/assets/bd27f548-05db-45bc-80f4-1dbcc2f26c21" />
-
+<img width="869" height="489" alt="image" src="https://github.com/user-attachments/assets/09519efc-ecd8-4aee-ba84-f0d6b6515d45" />
 
 ## 13. Dataset Description (Nagri Sound Dataset)
 The nagri-sound-dataset, hosted on Hugging Face, contains letter-level reference pronunciation audio samples for the Sylheti Nagri script. It supports AI-driven pronunciation feedback, AR-based letter triggering, and multimodal learning (text, voice, visuals) within the Sylheti Nagri Immersive Learning Portal. The dataset is stored in Parquet format with a train split and includes fields such as sample_id, letter_id, audio_file, spoken_language, target_language, duration_ms, noise_level, confidence_score, unity_action_id, and gesture_expected. It enables real-time feedback, adaptive learning analytics, and immersive XR interactions, making it ideal for cultural heritage and Ed-Tech XR projects in Sylhet. 
